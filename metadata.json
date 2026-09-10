@@ -1,0 +1,8 @@
+{
+  "name": "SuccessLabs Academy — Daily LinkedIn Post Architect",
+  "description": "365-day LinkedIn Direct Response Content Architect & Conversion Copilot for Enterprise Architecture, AI, and SAP transformation, driving responses to join https://transformation.successlabsacademy.com/",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
